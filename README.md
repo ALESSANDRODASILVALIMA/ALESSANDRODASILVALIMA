@@ -2,7 +2,7 @@
 
 - ✔Sou formando em Redes de Computadores.
 - 👀Estou procurando emprego como desenvolvedor JR.
-- 📖Estou contantemente estudando frontend e backend.
+- 📖Estou constantemente estudando frontend e backend.
 
 <div>
  <a href="https://beacons.ai/ScotLion"> 
