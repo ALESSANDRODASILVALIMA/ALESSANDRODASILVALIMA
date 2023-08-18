@@ -1,26 +1,31 @@
-## Olá, Meu nome é Alessandro Silva.
+# Olá, sou Alessandro Silva 👋
 
-- ✔Sou formando em Redes de Computadores.
-- 👀Estou procurando emprego como desenvolvedor JR.
-- 📖Estou constantemente estudando frontend e backend.
+Formando em Redes de Computadores e aspirante a desenvolvedor JR apaixonado por explorar o mundo do desenvolvimento frontend e backend.
 
-<div>
- <a href="https://beacons.ai/ALESSANDRODASILVALIMA"> 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ALESSANDRODASILVALIMA&show_icons=true&theme=radical"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALESSANDRODASILVALIMA&layout=compact&theme=radical"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <a href="https://nodejs.org/en/"><img align="center" alt"Ale-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/></a>
-  <a href="https://nodejs.org/en/"><img align="center" alt"Ale-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img align="center" alt"Ale-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img align="center" alt"Ale-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/>
-  <a href="https://sequelize.org/"><img align="center" alt"Ale-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg"/>
-  <a href="https://expressjs.com/pt-br/"><img align="center" alt"Ale-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg"/>
-  <a href="https://getbootstrap.com/"><img align="center" alt"Ale-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-    
-</div>
-  
-  
-  
+## 📚 Habilidades e Aprendizado Contínuo
 
+🌐 Atualmente focado em expandir meus conhecimentos nas seguintes áreas:
+
+### Frontend
+- Desenvolvimento web com HTML5 e CSS3.
+- Framework Bootstrap para criar interfaces modernas e responsivas.
+
+### Backend
+- Utilizando o poder do Node.js para construir aplicações eficientes.
+- Explorando o framework Express.js para o desenvolvimento de servidores web robustos.
+
+## 🔗 Conecte-se e Acompanhe
+
+Estou sempre animado para me conectar com profissionais da área e aprender com a comunidade. Você pode me encontrar nas seguintes plataformas:
+
+- [LinkedIn](https://www.linkedin.com/in/alessandro-silva-119795174) - Vamos expandir nossas redes profissionais!
+- [GitHub](https://github.com/ALESSANDRODASILVALIMA) - Confira meus projetos e contribuições.
+
+## 📊 Estatísticas GitHub
+
+Dê uma olhada nas minhas estatísticas GitHub para ver meus projetos e linguagens de programação mais utilizadas:
+
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=ALESSANDRODASILVALIMA&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ALESSANDRODASILVALIMA&layout=compact&theme=radical)
+
+Vamos construir algo incrível juntos! 🚀
