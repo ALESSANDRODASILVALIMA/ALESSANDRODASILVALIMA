@@ -20,6 +20,7 @@ Estou sempre animado para me conectar com profissionais da área e aprender com 
 
 - [LinkedIn](https://www.linkedin.com/in/alessandro-silva-119795174) - Vamos expandir nossas redes profissionais!
 - [GitHub](https://github.com/ALESSANDRODASILVALIMA) - Confira meus projetos e contribuições.
+- [DIO](https://www.dio.me/users/alessandrodasilva93) - Confira meu perfil na DIO.
 
 ## 📊 Estatísticas GitHub
 
